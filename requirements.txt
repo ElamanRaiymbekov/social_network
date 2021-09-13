@@ -1,0 +1,7 @@
+Django
+djangorestframework
+psycopg2-binary
+Pillow
+django-filter
+django-mptt
+drf-yasg
